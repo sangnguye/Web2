@@ -3,28 +3,68 @@
   "WorkspaceRootPath": "D:\\Web2\\WebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|d:\\web2\\webapi\\webapi\\models\\dto\\bookwithauthorandpublisherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\dto\\bookwithauthorandpublisherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|d:\\web2\\webapi\\webapi\\migrations\\20250918083309_initialdatabasemigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\migrations\\20250918083309_initialdatabasemigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|d:\\web2\\webapi\\webapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|d:\\web2\\webapi\\webapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|d:\\web2\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|d:\\web2\\webapi\\webapi\\models\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|d:\\web2\\webapi\\webapi\\models\\dto\\addbookrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\dto\\addbookrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|d:\\web2\\webapi\\webapi\\models\\domain\\book_author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\domain\\book_author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|d:\\web2\\webapi\\webapi\\models\\domain\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\domain\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|d:\\web2\\webapi\\webapi\\models\\domain\\publishers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\domain\\publishers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|d:\\web2\\webapi\\webapi\\models\\domain\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\domain\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|d:\\web2\\webapi\\webapi\\repositories\\ipublisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\repositories\\ipublisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|d:\\web2\\webapi\\webapi\\models\\dto\\publisherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\dto\\publisherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|d:\\web2\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|d:\\web2\\webapi\\webapi\\models\\dto\\addpublisherrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\dto\\addpublisherrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|d:\\web2\\webapi\\webapi\\repositories\\sqlpublisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\repositories\\sqlpublisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|d:\\web2\\webapi\\webapi\\controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|d:\\web2\\webapi\\webapi\\repositories\\sqlbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\repositories\\sqlbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|d:\\web2\\webapi\\webapi\\repositories\\sqlauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\repositories\\sqlauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|d:\\web2\\webapi\\webapi\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F2F9ED-F614-4D2F-B487-04F0C9FBFE45}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,10 +90,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
@@ -62,7 +98,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "20250918083309_InitialDatabaseMigration.cs",
+              "DocumentMoniker": "D:\\Web2\\WebAPI\\WebAPI\\Migrations\\20250918083309_InitialDatabaseMigration.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Migrations\\20250918083309_InitialDatabaseMigration.cs",
+              "ToolTip": "D:\\Web2\\WebAPI\\WebAPI\\Migrations\\20250918083309_InitialDatabaseMigration.cs",
+              "RelativeToolTip": "WebAPI\\Migrations\\20250918083309_InitialDatabaseMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T08:33:10.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Web2\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "D:\\Web2\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-18T08:25:12.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Authors.cs",
               "DocumentMoniker": "D:\\Web2\\WebAPI\\WebAPI\\Models\\Domain\\Authors.cs",
               "RelativeDocumentMoniker": "WebAPI\\Models\\Domain\\Authors.cs",
@@ -70,56 +132,47 @@
               "RelativeToolTip": "WebAPI\\Models\\Domain\\Authors.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T04:33:14.651Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BookWithAuthorAndPublisherDTO.cs",
-              "DocumentMoniker": "D:\\Web2\\WebAPI\\WebAPI\\Models\\DTO\\BookWithAuthorAndPublisherDTO.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Models\\DTO\\BookWithAuthorAndPublisherDTO.cs",
-              "ToolTip": "D:\\Web2\\WebAPI\\WebAPI\\Models\\DTO\\BookWithAuthorAndPublisherDTO.cs",
-              "RelativeToolTip": "WebAPI\\Models\\DTO\\BookWithAuthorAndPublisherDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T04:11:47.324Z",
+              "WhenOpened": "2025-09-18T08:15:43.181Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "addBookRequestDTO.cs",
-              "DocumentMoniker": "D:\\Web2\\WebAPI\\WebAPI\\Models\\DTO\\addBookRequestDTO.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Models\\DTO\\addBookRequestDTO.cs",
-              "ToolTip": "D:\\Web2\\WebAPI\\WebAPI\\Models\\DTO\\addBookRequestDTO.cs",
-              "RelativeToolTip": "WebAPI\\Models\\DTO\\addBookRequestDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Publishers.cs",
+              "DocumentMoniker": "D:\\Web2\\WebAPI\\WebAPI\\Models\\Domain\\Publishers.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Domain\\Publishers.cs",
+              "ToolTip": "D:\\Web2\\WebAPI\\WebAPI\\Models\\Domain\\Publishers.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Domain\\Publishers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T03:29:31.275Z"
+              "WhenOpened": "2025-09-18T08:15:03.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Books.cs",
+              "DocumentMoniker": "D:\\Web2\\WebAPI\\WebAPI\\Models\\Domain\\Books.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Domain\\Books.cs",
+              "ToolTip": "D:\\Web2\\WebAPI\\WebAPI\\Models\\Domain\\Books.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Domain\\Books.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T08:12:33.527Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BookDTO.cs",
-              "DocumentMoniker": "D:\\Web2\\WebAPI\\WebAPI\\Models\\DTO\\BookDTO.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Models\\DTO\\BookDTO.cs",
-              "ToolTip": "D:\\Web2\\WebAPI\\WebAPI\\Models\\DTO\\BookDTO.cs",
-              "RelativeToolTip": "WebAPI\\Models\\DTO\\BookDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Title": "Book_Author.cs",
+              "DocumentMoniker": "D:\\Web2\\WebAPI\\WebAPI\\Models\\Domain\\Book_Author.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Domain\\Book_Author.cs",
+              "ToolTip": "D:\\Web2\\WebAPI\\WebAPI\\Models\\Domain\\Book_Author.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Domain\\Book_Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T09:21:17.253Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BookController.cs",
-              "DocumentMoniker": "D:\\Web2\\WebAPI\\WebAPI\\Controllers\\BookController.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Controllers\\BookController.cs",
-              "ToolTip": "D:\\Web2\\WebAPI\\WebAPI\\Controllers\\BookController.cs",
-              "RelativeToolTip": "WebAPI\\Controllers\\BookController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T09:15:04.639Z"
+              "WhenOpened": "2025-09-18T08:09:26.235Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -129,9 +182,127 @@
               "RelativeDocumentMoniker": "WebAPI\\Data\\AppDbContext.cs",
               "ToolTip": "D:\\Web2\\WebAPI\\WebAPI\\Data\\AppDbContext.cs",
               "RelativeToolTip": "WebAPI\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T08:18:47.19Z"
+              "WhenOpened": "2025-09-18T08:08:45.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddPublisherRequestDTO.cs",
+              "DocumentMoniker": "D:\\Web2\\WebAPI\\WebAPI\\Models\\DTO\\AddPublisherRequestDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\DTO\\AddPublisherRequestDTO.cs",
+              "ToolTip": "D:\\Web2\\WebAPI\\WebAPI\\Models\\DTO\\AddPublisherRequestDTO.cs",
+              "RelativeToolTip": "WebAPI\\Models\\DTO\\AddPublisherRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T07:38:44.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PublisherDTO.cs",
+              "DocumentMoniker": "D:\\Web2\\WebAPI\\WebAPI\\Models\\DTO\\PublisherDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\DTO\\PublisherDTO.cs",
+              "ToolTip": "D:\\Web2\\WebAPI\\WebAPI\\Models\\DTO\\PublisherDTO.cs",
+              "RelativeToolTip": "WebAPI\\Models\\DTO\\PublisherDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T07:37:53.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SQLPublisherRepository.cs",
+              "DocumentMoniker": "D:\\Web2\\WebAPI\\WebAPI\\Repositories\\SQLPublisherRepository.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Repositories\\SQLPublisherRepository.cs",
+              "ToolTip": "D:\\Web2\\WebAPI\\WebAPI\\Repositories\\SQLPublisherRepository.cs",
+              "RelativeToolTip": "WebAPI\\Repositories\\SQLPublisherRepository.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T07:37:34.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPublisherRepository.cs",
+              "DocumentMoniker": "D:\\Web2\\WebAPI\\WebAPI\\Repositories\\IPublisherRepository.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Repositories\\IPublisherRepository.cs",
+              "ToolTip": "D:\\Web2\\WebAPI\\WebAPI\\Repositories\\IPublisherRepository.cs",
+              "RelativeToolTip": "WebAPI\\Repositories\\IPublisherRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T07:35:31.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PublishersController.cs",
+              "DocumentMoniker": "D:\\Web2\\WebAPI\\WebAPI\\Controllers\\PublishersController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\PublishersController.cs",
+              "ToolTip": "D:\\Web2\\WebAPI\\WebAPI\\Controllers\\PublishersController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\PublishersController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAWwCMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T07:31:58.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SQLAuthorRepository.cs",
+              "DocumentMoniker": "D:\\Web2\\WebAPI\\WebAPI\\Repositories\\SQLAuthorRepository.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Repositories\\SQLAuthorRepository.cs",
+              "ToolTip": "D:\\Web2\\WebAPI\\WebAPI\\Repositories\\SQLAuthorRepository.cs",
+              "RelativeToolTip": "WebAPI\\Repositories\\SQLAuthorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T06:43:29.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Web2\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "D:\\Web2\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T11:29:51.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SQLBookRepository.cs",
+              "DocumentMoniker": "D:\\Web2\\WebAPI\\WebAPI\\Repositories\\SQLBookRepository.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Repositories\\SQLBookRepository.cs",
+              "ToolTip": "D:\\Web2\\WebAPI\\WebAPI\\Repositories\\SQLBookRepository.cs",
+              "RelativeToolTip": "WebAPI\\Repositories\\SQLBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T06:51:37.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "D:\\Web2\\WebAPI\\WebAPI\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Repositories\\IBookRepository.cs",
+              "ToolTip": "D:\\Web2\\WebAPI\\WebAPI\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "WebAPI\\Repositories\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T06:46:41.972Z",
+              "EditorCaption": ""
             }
           ]
         }

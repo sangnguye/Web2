@@ -104,7 +104,7 @@ namespace WebAPI.Migrations
 
                     b.HasIndex("BookId");
 
-                    b.ToTable("Book_Authors");
+                    b.ToTable("Books_Authors");
                 });
 
             modelBuilder.Entity("WebAPI.Models.Domain.Publisher", b =>

@@ -1,5 +1,6 @@
-using WebAPI.Data;
 using Microsoft.EntityFrameworkCore;
+using WebAPI.Data;
+using WebAPI.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,8 +13,11 @@ builder.Services.AddSwaggerGen();
 
 //register DB
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
-builder.Services.AddDbContext<AppDbContext>(option => 
-        option.UseSqlServer(connectionString));
+builder.Services.AddDbContext<AppDbContext>(option => option.UseSqlServer(connectionString));
+builder.Services.AddScoped<IBookRepository, SQLBookRepository>();
+builder.Services.AddScoped<IAuthorRepository, SQLAuthorRepository>();
+builder.Services.AddScoped<IPublisherRepository, SQLPublisherRepository>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

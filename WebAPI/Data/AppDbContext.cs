@@ -4,7 +4,7 @@ using WebAPI.Models.Domain;
 
 namespace WebAPI.Data
 {
-    public class AppDbContext:DbContext
+    public class AppDbContext : DbContext
     {
         public AppDbContext(DbContextOptions<AppDbContext> dbContextOptions) : base(dbContextOptions) 
         {
