@@ -429,21 +429,28 @@
   "components": {
     "schemas": {
       "AddAuthorRequestDTO": {
+        "required": [
+          "fullName"
+        ],
         "type": "object",
         "properties": {
           "fullName": {
-            "type": "string",
-            "nullable": true
+            "minLength": 3,
+            "type": "string"
           }
         },
         "additionalProperties": false
       },
       "AddBookRequestDTO": {
+        "required": [
+          "title"
+        ],
         "type": "object",
         "properties": {
           "title": {
-            "type": "string",
-            "nullable": true
+            "minLength": 10,
+            "pattern": "^[\\p{L}0-9\\s]+$",
+            "type": "string"
           },
           "description": {
             "type": "string",
@@ -490,31 +497,44 @@
         "additionalProperties": false
       },
       "AddPublisherRequestDTO": {
+        "required": [
+          "name"
+        ],
         "type": "object",
         "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
           "name": {
-            "type": "string",
-            "nullable": true
+            "minLength": 2,
+            "type": "string"
           }
         },
         "additionalProperties": false
       },
       "AuthorNoIdDTO": {
+        "required": [
+          "fullName"
+        ],
         "type": "object",
         "properties": {
           "fullName": {
-            "type": "string",
-            "nullable": true
+            "minLength": 3,
+            "type": "string"
           }
         },
         "additionalProperties": false
       },
       "PublisherNoIdDTO": {
+        "required": [
+          "name"
+        ],
         "type": "object",
         "properties": {
           "name": {
-            "type": "string",
-            "nullable": true
+            "minLength": 2,
+            "type": "string"
           }
         },
         "additionalProperties": false

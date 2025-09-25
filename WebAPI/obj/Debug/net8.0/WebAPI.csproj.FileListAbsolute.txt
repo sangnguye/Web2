@@ -141,3 +141,7 @@ D:\Web2\WebAPI\WebAPI\obj\Debug\net8.0\refint\WebAPI.dll
 D:\Web2\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.pdb
 D:\Web2\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
 D:\Web2\WebAPI\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll
+D:\Web2\WebAPI\WebAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Web2\WebAPI\WebAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Web2\WebAPI\WebAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Web2\WebAPI\WebAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json

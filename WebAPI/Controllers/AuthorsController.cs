@@ -30,15 +30,24 @@ namespace WebAPI.Controllers
         }
 
         [HttpPost]
-        public IActionResult AddAuthor(AddAuthorRequestDTO dto)
+        public IActionResult AddAuthor([FromBody]AddAuthorRequestDTO dto)
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
             var added = _authorRepository.AddAuthor(dto);
             return CreatedAtAction(nameof(GetAuthorById), new { id = added }, added);
         }
 
         [HttpPut("{id}")]
-        public IActionResult UpdateAuthorById(int id, AuthorNoIdDTO dto)
+        public IActionResult UpdateAuthorById(int id, [FromBody] AuthorNoIdDTO dto)
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
             var updated = _authorRepository.UpdateAuthorById(id, dto);
             if (updated == null) return NotFound();
             return Ok(updated);

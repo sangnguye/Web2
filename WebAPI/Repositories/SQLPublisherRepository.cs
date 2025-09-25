@@ -61,5 +61,22 @@ namespace WebAPI.Repositories
 
             return publisher;
         }
+
+        public bool ExistsByName(string name, int? excludeId = null)
+        {
+            var query = _dbContext.Publishers.AsQueryable();
+
+            if (excludeId.HasValue)
+            {
+                query = query.Where(p => p.Id != excludeId.Value);
+            }
+
+            return query.Any(p => p.Name.ToLower() == name.ToLower());
+        }
+
+        public bool ExistsById(int id)
+        {
+            return _dbContext.Publishers.Any(p => p.Id == id);
+        }
     }
 }
